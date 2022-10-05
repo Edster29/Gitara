@@ -1,0 +1,268 @@
+	        .head {
+			
+				width: 100%;
+				height: 150px;
+			}
+			body {
+				background-color: black;
+			}
+			div.head{
+				display: block;
+			}
+
+			.Logo{
+				display: flex;
+				width: 250px;
+				height: 200px;
+				margin-top: -50px;
+				float: left;
+				margin-left: 100px;
+			}
+			.title h1 {
+				 font-weight: bold;
+				 color: white;
+				 letter-spacing: 10px;
+				 font-size: 50px;
+				 text-align: center;
+				 margin-top: 100px;
+				 margin-right: 150px;
+				 display: block;
+
+
+			}
+
+			ul {
+				list-style-type: none;
+				color: white;
+				margin-left: 42%;
+				margin-top: -20px ;
+				
+			}
+			li {
+				display: block;
+				float: left;
+				cursor: pointer;
+				margin-right: 25px;
+				padding: 10px;
+				font-size: 20px;
+			}
+			li:hover {
+				border-bottom: 2px white solid;
+			}
+			.body {
+				background-color: #404040;
+
+				width: 92%;
+				display: block;
+				margin-top: 10px;
+				margin-left: auto;
+				margin-right: auto;
+				padding-bottom: 20px;
+			}
+			.cover {
+				width: 70%;
+				display: flex;
+				margin-right: auto;
+				margin-left: auto;
+			}
+			 .Qoute {
+				text-align: center;
+				color: white;
+			  font-weight: bold;
+			  font-size: 30px;
+			  margin-top: 0;
+			}
+			input {
+               margin-left: 70%;
+               height:27px ;
+               width: 200px;
+               background-color: black;
+               color: white;
+              
+			}
+			.apple {
+				display: flex;
+				width: 10%;
+				height: 200px;
+				position: relative;
+				left: 240px;
+				
+				}
+
+			.stopwatch {
+
+				display: flex;
+				width: 10%;
+				height: 200px;
+				position: relative;
+				left: 940px;
+				
+			}
+
+			button {
+				color: white;
+				background-color: #d3aa32;
+				padding: 10px;
+				margin-left: 32%;
+				margin-bottom: 10px;
+				letter-spacing: 5px;
+				border-radius: 30px;
+				padding-right: 30px;
+				position: relative;
+				
+			}
+
+			.cart{
+				width:25px;
+				 height:25px;
+				 padding-bottom:0 ;
+				 padding-top: 5px;
+				 padding-left: 5px;
+				 position: absolute;
+				 right: 2px;
+				 bottom: 4px;
+			}
+			button:hover {
+				border: 2px white solid;
+			}
+            .appled {
+            	margin-left: 380px;
+            	color: white;
+            	font-size: 20px;
+            	margin-top: -100px;
+
+            }
+
+            .pricea {
+            	color: white;
+            	font-size: 20px;
+            	margin-left: 270px;
+            	margin-top: 70px;
+            }
+
+           
+            .footer {
+				list-style-type: none;
+				color: white;
+				margin-left: 32%;
+				margin-top: 20px ;
+				
+			}
+			.footerl
+			{
+				display: block;
+				float: left;
+				cursor: pointer;
+				margin-right: 25px;
+				padding: 10px;
+				font-size: 20px;
+			}
+			.footerl:hover {
+				border-bottom: 2px white solid;
+				
+			}
+			p.last {
+				
+				font-size: 30px;
+				letter-spacing: 3px;
+				color: white;
+				margin-left: 400px;
+			}
+			.Search {
+				position: relative;
+				background-image: url(Images/download.png);
+               background-size: 30px 29px;
+               background-repeat: no-repeat;
+               background-position: right;
+               width: 33px;
+               height: 32px;
+               right: 34px;
+               bottom: 32px;
+
+			}
+			.Search:hover{
+				border: 2px white solid;
+			}
+
+			.facebook{
+				width: 75px;
+				height: 65px;
+				display: flex;
+				position: relative;
+				left: 600px;
+				bottom: 80px;
+
+			}
+            .twitter{
+				width: 35px;
+				height: 25px;
+				display: flex;
+				position: relative;
+				left: 680px;
+				bottom: 125px;
+				
+			}
+			.insta{
+				width: 70px;
+				height: 55px;
+				display: flex;
+				position: relative;
+				left: 725px;
+				bottom: 165px;
+			
+			}
+			 .follow {
+				margin-top: 50px;
+				margin-left: 100px;
+				margin-bottom: 10px;
+			}
+			h3 {
+				text-align: center;
+				letter-spacing: 5px;
+				font-size: 20px;
+				margin-top: -150px;
+				color: white;
+			}
+			.stopwatchp {
+				margin-left: 750px;
+            	color: white;
+            	font-size: 20px;
+            	margin-top: -100px;
+
+			}
+			.appletit{
+				color: white;
+				margin-left: 380px;
+				position: absolute;
+				top: 750px;
+
+			}
+
+			.stopwatchdiv{
+				position: relative;
+			}
+
+			.stopwatchtit{
+				color: white;
+				position: absolute;
+				top: 20px;
+				left: 750px;
+			}
+			.pricep{
+				margin-left: 970px;
+				font-size: 20px;
+				color: white;
+				padding-top: 20px;
+			}
+			.pocket{
+				margin-left: 750px;
+			}
+			.brice{
+				position: relative;
+			}
+			.browrice{
+				color: white;
+				top: 50px;
+				left: 31%;
+				position: absolute;
+			}
